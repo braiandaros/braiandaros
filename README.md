@@ -78,11 +78,11 @@ Atualmente sou estudante de Ciência da Computação e atuo em projetos de pesqu
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiandaros&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/braiandaros/braiandaros/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
--->
 
 ---
 
