@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  <a href="www.linkedin.com/in/braiandaros" target="_blank">
+  <a href="https://www.linkedin.com/in/braiandaros" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -73,9 +73,9 @@ Atualmente sou estudante de Ciência da Computação e atuo em projetos de pesqu
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=braiandaros&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiandaros&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=braiandaros&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" alt="Estatísticas Gerais" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiandaros&layout=compact&theme=tokyonight&locale=pt-br&hide=Jupyter%20Notebook" alt="Linguagens mais usadas" />
 </p>
 
 ---
