@@ -1,16 +1,72 @@
-## Hi there 👋
+# Olá 👋, eu sou Braian Daros
 
-<!--
-**braiandaros/braiandaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desenvolvedor Backend | Foco em Java & Spring Boot**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+Eu construo **APIs robustas**, **sistemas escaláveis** e **soluções focadas em performance**.  
+Tenho um forte foco em **arquitetura de software, código limpo, Programação Orientada a Objetos e resolução de problemas práticos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente sou estudante de Ciência da Computação e atuo em projetos de pesquisa, unindo teoria e muita prática no desenvolvimento de sistemas.
+
+## 🧠 O que eu faço
+
+-   🏗️ Desenvolvimento Backend & APIs RESTful
+-   ⚡ Modelagem e otimização de Bancos de Dados
+-   🧩 Programação Orientada a Objetos (POO) & Arquitetura Limpa
+-   🐳 Conteinerização & Infraestrutura de ambientes
+-   🤖 Automação de scripts e integração de sistemas
+-   🎓 Pesquisa tecnológica e aprendizado contínuo
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Backend
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
+### Bancos de Dados
+
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+
+### DevOps & Ferramentas
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=braiandaros&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiandaros&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> _"Código não é apenas sobre resolver problemas.  
+> É sobre construir soluções escaláveis, organizadas e que geram valor real."_
+
+---
+
+⭐ Se você gostou do meu trabalho, considere deixar uma estrela nos repositórios  
+🤝 Estou sempre aberto a colaborações, oportunidades de estágio e troca de ideias
