@@ -80,9 +80,13 @@ Atualmente sou estudante de Ciência da Computação e atuo em projetos de pesqu
 
 ---
 
+<!-- 
+🐍 ESPAÇO PARA A ANIMAÇÃO DA COBRINHA (SNAKE GITHUB CONTRIBUTION)
+Quando você configurar o GitHub Actions, a imagem da cobrinha vai aparecer aqui.
 <p align="center">
   <img src="https://raw.githubusercontent.com/braiandaros/braiandaros/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+-->
 
 ---
 
