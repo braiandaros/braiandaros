@@ -1,4 +1,14 @@
-# Olá 👋, eu sou Braian Daros
+# Olá 👋, eu sou Braian Daros <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<a href="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend;Apaixonado+por+Java+e+Spring;Pesquisador+e+Estudante+de+CC&font=Fira+Code&center=false&width=440&height=45&color=38BDF8&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend;Apaixonado+por+Java+e+Spring;Pesquisador+e+Estudante+de+CC&font=Fira+Code&center=false&width=440&height=45&color=38BDF8&vCenter=true&size=22" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="www.linkedin.com/in/braiandaros" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 🚀 **Desenvolvedor Backend | Foco em Java & Spring Boot**  
 🇧🇷 Brazil
@@ -19,7 +29,15 @@ Atualmente sou estudante de Ciência da Computação e atuo em projetos de pesqu
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 O que estou explorando agora
+
+- 🔬 **Pesquisa e Inovação:** Atuando como bolsista FAPES em projetos de iniciação tecnológica.
+- 💻 **Desenvolvimento:** Aprofundando meus conhecimentos em ecossistema **Spring (Security, Cloud, Data)** e microsserviços.
+- 🤖 **Liderança:** Trazendo a experiência prática de organização e resolução de problemas que desenvolvi como líder estadual no Torneio Brasileiro de Robótica (TBR) pela equipe Robot-G.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 ### Frontend
 
@@ -50,14 +68,21 @@ Atualmente sou estudante de Ciência da Computação e atuo em projetos de pesqu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=braiandaros&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiandaros&layout=compact&theme=tokyonight" />
 </p>
+
+<!-- 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/braiandaros/braiandaros/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+-->
 
 ---
 
