@@ -1,39 +1,51 @@
-# Olá 👋, eu sou Braian Daros <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
+  
+  <!-- Banner Dinâmico e Tecnológico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00599C&height=220&section=header&text=Braian%20Daros&fontSize=80&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer&descAlignY=72&descAlign=50" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend;Apaixonado+por+Java+e+Spring;Pesquisador+e+Estudante+de+CC&font=Fira+Code&center=false&width=440&height=45&color=38BDF8&vCenter=true&size=22">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend;Apaixonado+por+Java+e+Spring;Pesquisador+e+Estudante+de+CC&font=Fira+Code&center=false&width=440&height=45&color=38BDF8&vCenter=true&size=22" alt="Typing SVG" />
-</a>
+  <br>
 
-<p>
-  <a href="https://www.linkedin.com/in/braiandaros" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <!-- Texto Digitado Centralizado (Cor Neon) -->
+  <a href="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend;Focado+em+Java+%26+Spring;Pesquisador+e+Estudante+de+CC;Buscando+Alta+Performance&font=Fira+Code&center=true&width=500&height=50&color=00F0FF&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Backend;Focado+em+Java+%26+Spring;Pesquisador+e+Estudante+de+CC;Buscando+Alta+Performance&font=Fira+Code&center=true&width=500&height=50&color=00F0FF&vCenter=true&size=22" alt="Typing SVG" />
   </a>
-</p>
 
-🚀 **Desenvolvedor Backend | Foco em Java & Spring Boot**  
-🇧🇷 Brazil
+  <!-- Botões de Contato e Views -->
+  <p>
+    <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:SEU_EMAIL_AQUI">
+      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=braiandaros&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=00599C&style=for-the-badge" alt="Profile views" />
+  </p>
 
-Eu construo **APIs robustas**, **sistemas escaláveis** e **soluções focadas em performance**.  
-Tenho um forte foco em **arquitetura de software, código limpo, Programação Orientada a Objetos e resolução de problemas práticos**.
+  <!-- Resumo Centralizado -->
+  <p>
+    Construo <b>APIs robustas</b>, <b>sistemas escaláveis</b> e soluções focadas em <b>performance</b>.<br>
+    Forte atuação em <i>arquitetura de software</i>, <i>código limpo</i> e <i>Programação Orientada a Objetos</i>. ⚙️💻<br>
+    Sou estudante de Ciência da Computação formado em Tecnico de Informatica e atuo em projetos de pesquisa, unindo teoria e muita prática no desenvolvimento de sistemas.
+  </p>
 
-Atualmente sou estudante de Ciência da Computação e atuo em projetos de pesquisa, unindo teoria e muita prática no desenvolvimento de sistemas.
+  <br>
 
 ## 🧠 O que eu faço
 
--   🏗️ Desenvolvimento Backend & APIs RESTful
--   ⚡ Modelagem e otimização de Bancos de Dados
--   🧩 Programação Orientada a Objetos (POO) & Arquitetura Limpa
--   🐳 Conteinerização & Infraestrutura de ambientes
--   🤖 Automação de scripts e integração de sistemas
--   🎓 Pesquisa tecnológica e aprendizado contínuo
-
+  🏗️ Desenvolvimento Backend & APIs RESTful<br>
+  ⚡ Modelagem e otimização de Bancos de Dados<br>
+  🧩 Programação Orientada a Objetos (POO) & Arquitetura Limpa<br>
+  🐳 Conteinerização & Infraestrutura de ambientes<br>
+  🤖 Automação de scripts e integração de sistemas<br>
+  🎓 Pesquisa tecnológica e aprendizado contínuo<br>
+  
 ---
 
 ## 🌱 O que estou explorando agora
 
-- 🔬 **Pesquisa e Inovação:** Atuando como bolsista FAPES em projetos de iniciação tecnológica.
-- 💻 **Desenvolvimento:** Aprofundando meus conhecimentos em ecossistema **Spring (Security, Cloud, Data)** e microsserviços.
-- 🤖 **Liderança:** Trazendo a experiência prática de organização e resolução de problemas que desenvolvi como líder estadual no Torneio Brasileiro de Robótica (TBR) pela equipe Robot-G.
+  🔬 **Pesquisa e Inovação:** Atuando como bolsista FAPES em projetos de iniciação tecnológica.<br>
+  💻 **Desenvolvimento:** Aprofundando meus conhecimentos em ecossistema **Spring (Security, Cloud, Data)** e microsserviços.<br>
+  🤖 **Liderança:** Trazendo a experiência prática de organização e resolução de problemas que desenvolvi como líder estadual no Torneio Brasileiro de Robótica (TBR) pela equipe Robot-G.<br>
 
 ---
 
